@@ -77,6 +77,6 @@ Its easy, you only need to import `mode7.js` in your webpage and then:
 
 ## Thanks to
 
-- [javidx9][https://twitter.com/javidx9] for its great video explanation [Programming Pseudo 3D Planes aka MODE7 (C++)](https://www.youtube.com/watch?v=ybLZyY655iY)
+- [javidx9](https://twitter.com/javidx9) for its great video explanation [Programming Pseudo 3D Planes aka MODE7 (C++)](https://www.youtube.com/watch?v=ybLZyY655iY)
 
 Made with :heart: by [AzazelN28](https://github.com/AzazelN28)
