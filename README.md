@@ -2,8 +2,8 @@
 
 Mode 7 implementation in C for WebAssembly.
 
-[Demo](https://azazeln28.neocities.org/games/mode7)
-[Demo (pure JS)](https://codepen.io/AzazelN28/pen/yZyJbe)
+- [Demo (WebAssembly)](https://azazeln28.neocities.org/games/mode7)
+- [Demo (JavaScript)](https://codepen.io/AzazelN28/pen/yZyJbe)
 
 ## How to compile this?
 
