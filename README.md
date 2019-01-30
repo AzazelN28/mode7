@@ -78,5 +78,7 @@ Its easy, you only need to import `mode7.js` in your webpage and then:
 ## Thanks to
 
 - [javidx9](https://twitter.com/javidx9) for its great video explanation [Programming Pseudo 3D Planes aka MODE7 (C++)](https://www.youtube.com/watch?v=ybLZyY655iY)
+- All the people working on Emscripten.
+- [Lin Clark](https://twitter.com/linclark) for its articles on [WebAssembly Memory](https://hacks.mozilla.org/2017/07/memory-in-webassembly-and-why-its-safer-than-you-think/)
 
 Made with :heart: by [AzazelN28](https://github.com/AzazelN28)
